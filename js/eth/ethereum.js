@@ -2,11 +2,12 @@ let TEST = 1;
 let VERSION = '1.9';
 
 let NETWORK_ADDRESSES = {
-	'mainnet': '0x202F358699c6F77134Eea7175DEd8Cddcd12cB4D',
+	'mainnet': '0xbdde952df1386b7d3d76055853ea81e4584682cf',
 	'kovan': '0xaf466c645c6d73f4f151e5b716eaea2db26ca623',
 	'ropsten': '0x586B488a6B4060240769bB3fB2485638Ef75115b',
 };
 let NETWORK_CREATE_CONTRACT_BLOCK = {
+	'mainnet': 11120117,
 	'kovan': 14030623,
 	'ropsten': 8940508,
 };
