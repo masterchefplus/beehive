@@ -1,4 +1,4 @@
-let TEST = 1;
+let TEST = 3;
 let VERSION = '1.9';
 
 let NETWORK_ADDRESSES = {
